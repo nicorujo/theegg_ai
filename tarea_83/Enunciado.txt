@@ -1,0 +1,4 @@
+Enunciado de la tarea:
+
+En este caso, apoyándoos en el siguiente video, tenéis que entender y dibujar el diagrama de flujo del programa de Pikachu. 
+Posteriormente debéis codificarlo en Python, es decir, construir el programa tal cual se indica en el diagrama y subirlo a vuestro repositorio en GitHub
